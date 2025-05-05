@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Allure results and reports
+allure-results/
+allure-report/
+
+# Playwright outputs
+test-results/
+*.log
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
